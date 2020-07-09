@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />🔭 I am an <a target=_blank href="https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699"><strong>AI/Machine Learning Engineer</strong></a> who has worked on various aspects of Data Science/ML problems from brainstorming, prototyping, to productionizing and maintaining solutions, primarily specializing in chipping away the <a target=_blank href="https://www.google.com/search?q=hidden+technical+debt+in+machine+learning&oq=hidden+technical+debt+in+machine+learning+&aqs=chrome..69i57j0l4j69i60l3.10345j1j4&sourceid=chrome&ie=UTF-8">"Hidden Technical Debt in Machine Learning" </a><br />
+<br />🌱 I have worked in the following areas/with the following tools (also few buzzwords for the search engines): <br />Machine Learning, Data Engineering, Data Analysis, Data Modelling, Algorithms, Classification, Regression, Supervised, Unsupervised, Deep Learning, Evaluation, Hyperparameter Tuning, Deployment/Productionizing, Monitoring/Maintenance, DevOps, MLOps, Distributed Computing, CI/CD, Testing, TDD
+    <br /> Python, R, C, C++, Pandas, Numpy, Dask, Scikit Learn, Tensorflow, Keras, Flask, Django
+    <br />Git, Bash, Docker, Kubernetes, Helm, Kops, Kubeflow, MLflow
+    <br />AWS, GCP, Sagemaker, API Gateway, AI Platform, ML Engine, S3, Cloud Storage, EC2, VM, ECR, GCR
+    <br />
+ <br />⚡ A bit of a background on how I got into the field and why I am still here -> I have always been passionate about Computers and the ability to make them solve problems for us. I value encountering challenging situations, enjoy analyzing & solving problems and seeing the results. The work done by computers tend to have these characteristics in abundance. I am fascinated by that and want to solve as many problems as I can. Code is a by product of this phenomenon. 
+    <br />Over time, I have acquired technical skills to code in a bunch of languages, tools. But again, I value the solving problems more than the tools used for that purpose.<br />
+ <br />👯 Strong believer in 👉🏾 <a target="_blank" href="https://youtu.be/fgbBtnCvcDI">"AI is the new Electricity"</a>.
