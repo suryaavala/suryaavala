@@ -2,11 +2,11 @@
 <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&vCenter=true&width=600&lines=Principal+AI+Systems+Architect;Staff+Machine+Learning+Engineer;Engineering+Leader;Healthcare+%C2%B7+Energy+%C2%B7+Finance+%C2%B7+Tech" alt="Typing SVG" /></p>
 
 <div align="left">
-  <a href="https://suryaavala.com"><img src="https://img.shields.io/badge/suryaavala.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=bd93f9" alt="Website" /></a>
-  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/in-suryaavala-0d1117?style=for-the-badge&labelColor=0077B5&color=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:suryaavinashavala@gmail.com"><img src="https://img.shields.io/badge/get_in_touch!-0d1117?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="Email" /></a>
-  <a href="https://github.com/sponsors/suryaavala"><img src="https://img.shields.io/badge/sponsor_me-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=bd93f9" alt="Sponsor" /></a>
   <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffb86c" alt="Buy Me a Coffee" /></a>
+  <a href="https://github.com/sponsors/suryaavala"><img src="https://img.shields.io/badge/sponsor_me-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=ff79c6" alt="Sponsor" /></a>
+  <a href="mailto:suryaavinashavala@gmail.com"><img src="https://img.shields.io/badge/get_in_touch!-0d1117?style=for-the-badge&logo=gmail&logoColor=ff5555" alt="Email" /></a>
+  <a href="https://suryaavala.com"><img src="https://img.shields.io/badge/suryaavala.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=50fa7b" alt="Website" /></a>
+  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/in-suryaavala-0d1117?style=for-the-badge&labelColor=0077B5&color=0d1117" alt="LinkedIn" /></a>
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%"></p>
