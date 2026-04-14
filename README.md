@@ -3,15 +3,17 @@
 
 <div align="left">
   <a href="https://suryaavala.com"><img src="https://img.shields.io/badge/suryaavala.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=bd93f9" alt="Website" /></a>
-  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/in-suryaavala-0d1117?style=for-the-badge&labelColor=0077B5&color=0d1117" alt="LinkedIn" /></a>
   <a href="mailto:suryaavinashavala@gmail.com"><img src="https://img.shields.io/badge/get_in_touch!-0d1117?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="Email" /></a>
   <a href="https://github.com/sponsors/suryaavala"><img src="https://img.shields.io/badge/sponsor_me-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=bd93f9" alt="Sponsor" /></a>
   <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffb86c" alt="Buy Me a Coffee" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%"></p>
 
 > ✨ _"I've always been passionate about computers and the ability to make them solve problems for us. I value encountering challenging situations, enjoy analysing & solving problems and seeing the results. Code is a byproduct of this phenomenon."_
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%"></p>
 
 I build things across the full stack — from low-level systems optimisation and distributed infrastructure, to ML platforms, recommender engines, clinical NLP services, and multi-agent GenAI systems. I care about making things work reliably at scale, in regulated environments, with measurable impact.
 
