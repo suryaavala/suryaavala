@@ -2,14 +2,14 @@
 <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&vCenter=true&width=600&lines=Principal+AI+Systems+Architect;Staff+Machine+Learning+Engineer;Engineering+Leader;Healthcare+%C2%B7+Energy+%C2%B7+Finance+%C2%B7+Tech" alt="Typing SVG" /></p>
 
 <div align="left">
-  <a href="https://suryaavala.com"><img src="https://img.shields.io/badge/🌐_suryaavala.com-0d1117?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/💬_linkedin-0d1117?style=for-the-badge" /></a>
-  <a href="mailto:suryaavinashavala@gmail.com"><img src="https://img.shields.io/badge/📧_get_in_touch!-0d1117?style=for-the-badge" /></a>
-  <a href="https://github.com/sponsors/suryaavala"><img src="https://img.shields.io/badge/💜_sponsor_me-0d1117?style=for-the-badge" /></a>
-  <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/☕_buy_me_a_coffee-0d1117?style=for-the-badge" /></a>
+  <a href="https://suryaavala.com"><img src="https://img.shields.io/badge/suryaavala.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=bd93f9" alt="Website" /></a>
+  <a href="https://linkedin.com/in/suryaavala"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" alt="LinkedIn" /></a>
+  <a href="mailto:suryaavinashavala@gmail.com"><img src="https://img.shields.io/badge/get_in_touch!-0d1117?style=for-the-badge&logo=gmail&logoColor=ff79c6" alt="Email" /></a>
+  <a href="https://github.com/sponsors/suryaavala"><img src="https://img.shields.io/badge/sponsor_me-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=bd93f9" alt="Sponsor" /></a>
+  <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffb86c" alt="Buy Me a Coffee" /></a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%">
 
 > ✨ _"I've always been passionate about computers and the ability to make them solve problems for us. I value encountering challenging situations, enjoy analysing & solving problems and seeing the results. Code is a byproduct of this phenomenon."_
 
@@ -29,7 +29,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 🏗️ **Platform & Engineering**
 - **67% reduction** in feature lead times and **97%+ drop** in change-failure rates — architected a modular GCP-native ML platform with ClearML at Montu
@@ -37,7 +37,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 - Hired, onboarded and mentored teams of Data Scientists & ML Engineers across multiple orgs
 
 </td>
-<td>
+<td valign="top">
 
 🧪 **Product & Commercial**
 - **93% accuracy** on medical data extraction, outperforming Google Healthcare NLP by **14%** — structuring complex clinical text at Montu
@@ -48,7 +48,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 🔐 **Privacy & Compliance**
 - **0.87+ F1** PII redaction for clinical input/log sanitisation
@@ -56,7 +56,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 - Privacy-by-Design across all healthcare ML services
 
 </td>
-<td>
+<td valign="top">
 
 🎯 **NLP & GenAI**
 - Automated consultation notes reducing **32% of consultation time**
@@ -192,14 +192,14 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **🤖 GenAI & Agentic Systems**
 * <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**scaling-succotash**](https://github.com/suryaavala/scaling-succotash) — Production agentic search engine: GraphRAG, Celery DLQ, Circuit Breakers, K8s
 * <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**openclaude**](https://github.com/suryaavala/openclaude) — Multi-model orchestration mesh
 
 </td>
-<td>
+<td width="50%" valign="top">
 
 **🏗️ Systems & Infrastructure**
 * <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**traffic_counter**](https://github.com/suryaavala/traffic_counter) — O(1) stdlib optimisation, zero GC thrashing
@@ -209,7 +209,7 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **🧪 ML & Data Science**
 * <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**suncorp**](https://github.com/suryaavala/suncorp) — ML modelling & analysis
@@ -219,7 +219,7 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 * <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**legimages**](https://github.com/suryaavala/legimages) — ML Legos for Images
 
 </td>
-<td>
+<td width="50%" valign="top">
 
 **🔧 Data Engineering & Tooling**
 * <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**zen_search**](https://github.com/suryaavala/zen_search) — Ticketing system search engine
