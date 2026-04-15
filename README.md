@@ -1,5 +1,5 @@
 <h1 align="left">👋🏾 Hi, I'm Surya!</h1>
-<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&vCenter=true&width=600&lines=Principal+AI+Systems+Architect;Staff+Machine+Learning+Engineer;Engineering+Leader;Healthcare+%C2%B7+Energy+%C2%B7+Finance+%C2%B7+Tech" alt="Typing SVG" /></p>
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&vCenter=true&width=600&lines=Healthcare+%C2%B7+Energy+%C2%B7+Fintech+%C2%B7+Tech;Staff+Machine+Learning+Engineer;Principal+AI+Systems+Architect;Engineering+Leader;Pastry+Enthusiast+%C2%B7+Human+%C2%B7+Philosopher" alt="Typing SVG" /></p>
 
 <div align="left">
   <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffb86c" alt="Buy Me a Coffee" /></a>
