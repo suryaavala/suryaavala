@@ -1,5 +1,5 @@
 <h1 align="left">👋🏾 Hi, I'm Surya!</h1>
-<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=42&speed=1&color=BD93F9&vCenter=true&width=600&lines=Healthcare+%C2%B7+Energy+%C2%B7+Fintech+%C2%B7+Tech;Staff+Machine+Learning+Engineer;Principal+AI+Systems+Architect;Engineering+Leader;Pastry+Enthusiast+%C2%B7+Human+%C2%B7+Philosopher" alt="Typing SVG" /></p>
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=42&speed=1&color=BD93F9&vCenter=true&width=600&lines=Staff+Machine+Learning+Engineer;Healthcare+ML+Platforms+%C2%B7+Clinical+NLP;Energy+Forecasting+%C2%B7+FinOps+Strategy;Privacy-by-Design+%C2%B7+Regulated+Compliance;Platform+Architecture+%C2%B7+MLOps+at+Scale" alt="Typing SVG" /></p>
 
 <div align="left">
   <a href="https://buymeacoffee.com/suryaavala"><img src="https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffb86c" alt="Buy Me a Coffee" /></a>
@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%"></p>
 
-I build things across the full stack — from low-level systems optimisation and distributed infrastructure, to ML platforms, recommender engines, clinical NLP services, and multi-agent GenAI systems. I care about making things work reliably at scale, in regulated environments, with measurable impact.
+A decade of making ML systems survive production in healthcare and energy — where the plumbing matters more than the model. I build ML platforms, clinical NLP services, forecasting systems, and multi-agent GenAI pipelines in regulated environments where reliability and compliance aren't optional.
 
 For over a **decade** I've navigated highly regulated domains — Healthcare, Energy, Finance — specialising in chipping away the <a href="https://papers.nips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html">"Hidden Technical Debt in Machine Learning"</a>.
 
@@ -34,6 +34,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 <td valign="top">
 
 🏗️ **Platform & Engineering**
+
 - **67% reduction** in feature lead times and **97%+ drop** in change-failure rates — architected a modular GCP-native ML platform with ClearML at Montu
 - **40% avg cost optimisation** — event-driven energy forecasting systems for 10k+ sites at Amber
 - Hired, onboarded and mentored teams of Data Scientists & ML Engineers across multiple orgs
@@ -42,6 +43,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 <td valign="top">
 
 🧪 **Product & Commercial**
+
 - **93% accuracy** on medical data extraction, outperforming Google Healthcare NLP by **14%** — structuring complex clinical text at Montu
 - **33% adoption gains** & **19% profile subscription uplift** — personalised recommender systems at Linktree
 - **18–23% repeat order uplift** — patient segmentation engine driving commercial growth at Montu
@@ -53,6 +55,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 <td valign="top">
 
 🔐 **Privacy & Compliance**
+
 - **0.87+ F1** PII redaction for clinical input/log sanitisation
 - RBAC data access policies, CI/CD security scanning, DevSecOps frameworks
 - Privacy-by-Design across all healthcare ML services
@@ -61,6 +64,7 @@ When I'm not debugging distributed systems, I'm probably reading about the inter
 <td valign="top">
 
 🎯 **NLP & GenAI**
+
 - Automated consultation notes reducing **32% of consultation time**
 - Care Quality assessment automating **70% of clinician reviews**
 - LLM-based data extraction & clinical services at production scale
@@ -148,6 +152,7 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 <td width="50%">
 
 #### 🎨 Infrastructure Stack
+
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" />
   <img src="https://img.shields.io/badge/C++-282a36?style=flat-square&logo=cplusplus&logoColor=ffb86c" />
@@ -183,7 +188,7 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 <td width="50%">
 <div align="center">
 
-  <img src="https://quickchart.io/chart?bkg=0d1117&w=420&h=380&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Platform%20MLOps%22%2C%22Dist.%20Systems%20%28CAP%29%22%2C%22Privacy%20%26%20Compliance%22%2C%22HPC%20Compute%20Opt.%22%2C%22FinOps%20%26%20Strategy%22%2C%22DL%20Math%20%26%20Internals%22%2C%22Agentic%20Orchestration%22%2C%22SWE%20%26%20Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%22%2C%22data%22%3A%5B95%2C94%2C92%2C82%2C90%2C78%2C88%2C93%5D%2C%22backgroundColor%22%3A%22rgba%28189%2C147%2C249%2C0.35%29%22%2C%22borderColor%22%3A%22rgb%28189%2C147%2C249%29%22%2C%22pointBackgroundColor%22%3A%22rgb%28241%2C250%2C140%29%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22pointLabels%22%3A%7B%22fontSize%22%3A10%2C%22fontColor%22%3A%22%238be9fd%22%2C%22fontFamily%22%3A%22Menlo%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22max%22%3A100%2C%22min%22%3A0%7D%7D%7D%7D" width="100%"/>
+  <img src="https://quickchart.io/chart?bkg=0d1117&w=420&h=380&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Platform%20MLOps%22%2C%22Dist.%20Systems%20%28CAP%29%22%2C%22Privacy%20%26%20Compliance%22%2C%22HPC%20Compute%20Opt.%22%2C%22FinOps%20%26%20Strategy%22%2C%22DL%20Math%20%26%20Internals%22%2C%22Agentic%20Orchestration%22%2C%22SWE%20%26%20Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22%22%2C%22data%22%3A%5B85%2C82%2C80%2C68%2C78%2C65%2C75%2C83%5D%2C%22backgroundColor%22%3A%22rgba%28189%2C147%2C249%2C0.35%29%22%2C%22borderColor%22%3A%22rgb%28189%2C147%2C249%29%22%2C%22pointBackgroundColor%22%3A%22rgb%28241%2C250%2C140%29%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22pointLabels%22%3A%7B%22fontSize%22%3A10%2C%22fontColor%22%3A%22%238be9fd%22%2C%22fontFamily%22%3A%22Menlo%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22max%22%3A100%2C%22min%22%3A0%7D%7D%7D%7D" width="100%"/>
 
 </div>
 </td>
@@ -197,16 +202,18 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 <td width="50%" valign="top">
 
 **🤖 GenAI & Agentic Systems**
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**scaling-succotash**](https://github.com/suryaavala/scaling-succotash) — Production agentic search engine: GraphRAG, Celery DLQ, Circuit Breakers, K8s
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**openclaude**](https://github.com/suryaavala/openclaude) — Multi-model orchestration mesh
+
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**scaling-succotash**](https://github.com/suryaavala/scaling-succotash) — Production agentic search engine: GraphRAG, Celery DLQ, Circuit Breakers, K8s
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**openclaude**](https://github.com/suryaavala/openclaude) — Multi-model orchestration mesh
 
 </td>
 <td width="50%" valign="top">
 
 **🏗️ Systems & Infrastructure**
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**traffic_counter**](https://github.com/suryaavala/traffic_counter) — O(1) stdlib optimisation, zero GC thrashing
-* <img src="https://img.shields.io/badge/Makefile-282a36?style=flat-square&logo=gnu&logoColor=50fa7b" /> [**decloud**](https://github.com/suryaavala/decloud) — Declutter your cloud (FinOps)
-* <img src="https://img.shields.io/badge/C++-282a36?style=flat-square&logo=cplusplus&logoColor=ffb86c" /> [**advancedcpp**](https://github.com/suryaavala/advancedcpp) — Advanced C++ patterns
+
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**traffic_counter**](https://github.com/suryaavala/traffic_counter) — O(1) stdlib optimisation, zero GC thrashing
+- <img src="https://img.shields.io/badge/Makefile-282a36?style=flat-square&logo=gnu&logoColor=50fa7b" /> [**decloud**](https://github.com/suryaavala/decloud) — Declutter your cloud (FinOps)
+- <img src="https://img.shields.io/badge/C++-282a36?style=flat-square&logo=cplusplus&logoColor=ffb86c" /> [**advancedcpp**](https://github.com/suryaavala/advancedcpp) — Advanced C++ patterns
 
 </td>
 </tr>
@@ -214,20 +221,22 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 <td width="50%" valign="top">
 
 **🧪 ML & Data Science**
-* <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**suncorp**](https://github.com/suryaavala/suncorp) — ML modelling & analysis
-* <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**stockprediction**](https://github.com/suryaavala/stockprediction) — Financial market prediction
-* <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**som**](https://github.com/suryaavala/som) — Self Organising Maps (Kohonen Networks)
-* <img src="https://img.shields.io/badge/R-282a36?style=flat-square&logo=r&logoColor=8be9fd" /> [**prodr**](https://github.com/suryaavala/prodr) — Productionising R ML models ⭐2
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**legimages**](https://github.com/suryaavala/legimages) — ML Legos for Images
+
+- <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**suncorp**](https://github.com/suryaavala/suncorp) — ML modelling & analysis
+- <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**stockprediction**](https://github.com/suryaavala/stockprediction) — Financial market prediction
+- <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**som**](https://github.com/suryaavala/som) — Self Organising Maps (Kohonen Networks)
+- <img src="https://img.shields.io/badge/R-282a36?style=flat-square&logo=r&logoColor=8be9fd" /> [**prodr**](https://github.com/suryaavala/prodr) — Productionising R ML models ⭐2
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**legimages**](https://github.com/suryaavala/legimages) — ML Legos for Images
 
 </td>
 <td width="50%" valign="top">
 
 **🔧 Data Engineering & Tooling**
-* <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**zen_search**](https://github.com/suryaavala/zen_search) — Ticketing system search engine
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**fwfparser**](https://github.com/suryaavala/fwfparser) — Parse fixed-width files
-* <img src="https://img.shields.io/badge/TypeScript-282a36?style=flat-square&logo=typescript&logoColor=8be9fd" /> [**ah_chambers_of_law**](https://github.com/suryaavala/ah_chambers_of_law) — TypeScript application
-* <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**template_cookiecutter**](https://github.com/suryaavala/template_cookiecutter) — Standardised DS project structure
+
+- <img src="https://img.shields.io/badge/Jupyter-282a36?style=flat-square&logo=jupyter&logoColor=ffb86c" /> [**zen_search**](https://github.com/suryaavala/zen_search) — Ticketing system search engine
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**fwfparser**](https://github.com/suryaavala/fwfparser) — Parse fixed-width files
+- <img src="https://img.shields.io/badge/TypeScript-282a36?style=flat-square&logo=typescript&logoColor=8be9fd" /> [**ah_chambers_of_law**](https://github.com/suryaavala/ah_chambers_of_law) — TypeScript application
+- <img src="https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=f1fa8c" /> [**template_cookiecutter**](https://github.com/suryaavala/template_cookiecutter) — Standardised DS project structure
 
 </td>
 </tr>
@@ -260,11 +269,13 @@ PEFT (LoRA/QLoRA), RLHF alignment (PPO/DPO), A2A, MCP orchestration, evals & opt
 </details>
 
 ### 🏛️ Upstream Contributions & Open Source
-* <img src="https://img.shields.io/badge/PR-3813-282a36?style=flat-square&logo=tensorflow&logoColor=f1fa8c" /> [tensorflow/tfx (#3813)](https://github.com/tensorflow/tfx/pull/3813) — Resolved strict dependency pinning conflicts for TF-Hub.
-* <img src="https://img.shields.io/badge/PR-4702-282a36?style=flat-square&logo=linux&logoColor=8be9fd" /> [kubeflow/pipelines (#4702)](https://github.com/kubeflow/pipelines/pull/4702) — Fixed GCP inverse proxy URL routing priorities.
-* <img src="https://img.shields.io/badge/PR-4706-282a36?style=flat-square&logo=linux&logoColor=bd93f9" /> [kubeflow/pipelines (#4706)](https://github.com/kubeflow/pipelines/pull/4706) — Reconciled SDK linting conflicts between pylint and yapf.
-* <img src="https://img.shields.io/badge/PR-5828-282a36?style=flat-square&logo=dask&logoColor=ffb86c" /> [dask/dask (#5828)](https://github.com/dask/dask/pull/5828) — Fixed multi-dimensional array ValueErrors in delayed map reductions.
-* <img src="https://img.shields.io/badge/contrib-iterative-282a36?style=flat-square&logo=dvc&logoColor=50fa7b" /> [iterative/katacoda-scenarios](https://github.com/iterative/katacoda-scenarios) — DVC learning scenarios.
+
+- <img src="https://img.shields.io/badge/PR-3813-282a36?style=flat-square&logo=tensorflow&logoColor=f1fa8c" /> [tensorflow/tfx (#3813)](https://github.com/tensorflow/tfx/pull/3813) — Resolved strict dependency pinning conflicts for TF-Hub.
+
+- <img src="https://img.shields.io/badge/PR-4702-282a36?style=flat-square&logo=linux&logoColor=8be9fd" /> [kubeflow/pipelines (#4702)](https://github.com/kubeflow/pipelines/pull/4702) — Fixed GCP inverse proxy URL routing priorities.
+- <img src="https://img.shields.io/badge/PR-4706-282a36?style=flat-square&logo=linux&logoColor=bd93f9" /> [kubeflow/pipelines (#4706)](https://github.com/kubeflow/pipelines/pull/4706) — Reconciled SDK linting conflicts between pylint and yapf.
+- <img src="https://img.shields.io/badge/PR-5828-282a36?style=flat-square&logo=dask&logoColor=ffb86c" /> [dask/dask (#5828)](https://github.com/dask/dask/pull/5828) — Fixed multi-dimensional array ValueErrors in delayed map reductions.
+- <img src="https://img.shields.io/badge/contrib-iterative-282a36?style=flat-square&logo=dvc&logoColor=50fa7b" /> [iterative/katacoda-scenarios](https://github.com/iterative/katacoda-scenarios) — DVC learning scenarios.
 
 ---
 <div align="center">
